@@ -16,7 +16,7 @@
 
 ### 🏠 [Nosso site](https://shadowleaderscmd.wixsite.com/shadowleadership)
 
-## Instalação
+## ⚡ Instalação
 
 ### 💻 Termux
 
@@ -46,7 +46,7 @@ npm install
 npm start
 ```
 
-## Autores
+## 👨🏻‍💻 Autores
 
 👤 **Aldebaran**
 
