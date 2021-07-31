@@ -1,5 +1,5 @@
 <div align="center">
-  <img alt="Logo" src="./assets/images/logo.jpeg" width="100" />
+  <img alt="Logo" src="./assets/images/logo.jpeg" width="120" />
   <br>
   <h1>Shadow Painel (Alpha)</h1> 
 </div>
