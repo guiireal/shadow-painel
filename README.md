@@ -12,7 +12,7 @@
 
 <br>
 
-> Painel desenvolvido pela Shadow Leadership, possui diversas funcionalidades e consultas.
+> Painel desenvolvido pela Shadow Leadership, possui diversas funcionalidades.
 
 ### 🏠 [Nosso site](https://shadowleaderscmd.wixsite.com/shadowleadership)
 
