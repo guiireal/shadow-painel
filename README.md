@@ -14,15 +14,9 @@
 
 > Painel desenvolvido pela Shadow Leadership, possui diversas funcionalidades e consultas.
 
-<br />
-
 ### 🏠 [Nosso site](https://shadowleaderscmd.wixsite.com/shadowleadership)
 
-<br />
-
 ## Instalação
-
-<br />
 
 ### 💻 Termux
 
@@ -35,8 +29,6 @@ npm install
 
 ```
 
-<br />
-
 ### 💻 Debian
 
 ```sh
@@ -48,31 +40,21 @@ npm install
 
 ```
 
-<br />
-
 ## Executar o Painel
 
 ```sh
 npm start
 ```
 
-<br />
-
 ## Autores
-
-<br />
 
 👤 **Aldebaran**
 
 - Github: [@guiireal](https://github.com/guiireal)
 
-<br />
-
 ## 🤝 Contribuir para o projeto
 
 Contribuições, problemas e solicitações de recurso são bem-vindos! <br /> Sinta-se à vontade para verificar nossas [issues](https://github.com/guiireal/shadow-painel/issues).
-
-<br />
 
 ## Mostre seu apoio
 
