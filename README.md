@@ -56,6 +56,6 @@ npm start
 
 Contribuições, problemas e solicitações de recurso são bem-vindos! <br /> Sinta-se à vontade para verificar nossas [issues](https://github.com/guiireal/shadow-painel/issues).
 
-## Mostre seu apoio
+## 🤝 Mostre seu apoio
 
 Dê uma ⭐️ se este projeto te ajudou!
