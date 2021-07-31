@@ -6,7 +6,14 @@
   "scripts": {
     "start": "node ./src/index.js"
   },
-  "keywords": ["Shadow Leadership", "Painel", "Hacking"],
+  "keywords": [
+    "Shadow Leadership",
+    "Painel",
+    "Hacking"
+  ],
   "author": "Aldebaran",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "git-commit-msg-linter": "^3.2.6"
+  }
 }
